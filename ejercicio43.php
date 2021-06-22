@@ -3,7 +3,7 @@
  * En el siguiente ejemplo se realiza la lectura de un fichero remoto,
  * reemplazo alguna palabra y muestro el resultado
  */
-//que alegria
+
 
 echo "https://apcpruebas.es/imagenes/villano.gif";
 
